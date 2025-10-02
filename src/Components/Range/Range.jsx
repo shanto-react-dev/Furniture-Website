@@ -16,7 +16,7 @@ const Range = () => {
                         <div className="range-boxs">
                             <div className="range-parts">
                                 <div className="range-img">
-                                    <img src="../public/Images/group-4.png" alt="group" />
+                                    <img src="/Images/group-4.png" alt="group" />
                                 </div>
                                 <div className="range-name">
                                     <h4>Dining</h4>
@@ -24,7 +24,7 @@ const Range = () => {
                             </div>
                             <div className="range-parts">
                                 <div className="range-img">
-                                    <img src="../public/Images/group-5.png" alt="group" />
+                                    <img src="/Images/group-5.png" alt="group" />
                                 </div>
                                 <div className="range-name">
                                     <h4>Living</h4>
@@ -32,7 +32,7 @@ const Range = () => {
                             </div>
                             <div className="range-parts">
                                 <div className="range-img">
-                                    <img src="../public/Images/group-6.png" alt="group" />
+                                    <img src="/Images/group-6.png" alt="group" />
                                 </div>
                                 <div className="range-name">
                                     <h4>Bedroom</h4>

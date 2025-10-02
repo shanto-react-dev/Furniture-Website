@@ -22,16 +22,16 @@ const Shop = () => {
                             </div>
                             <div className="shop-imges">
                                 <div className="images">
-                                    <img src="../public/Images/IG-1.jpg" alt="shop" />                                
+                                    <img src="/Images/IG-1.jpg" alt="shop" />                                
                                 </div>
                                 <div className="images">
-                                    <img src="../public/Images/IG-2.jpg" alt="shop" />                                
+                                    <img src="/Images/IG-2.jpg" alt="shop" />                                
                                 </div>
                                 <div className="images">
-                                    <img src="../public/Images/IG-3.jpg" alt="shop" />                                
+                                    <img src="/Images/IG-3.jpg" alt="shop" />                                
                                 </div>
                                 <div className="images">
-                                    <img src="../public/Images/IG-4.jpg" alt="shop" />                                
+                                    <img src="/Images/IG-4.jpg" alt="shop" />                                
                                 </div>
                             </div>
                         </div>

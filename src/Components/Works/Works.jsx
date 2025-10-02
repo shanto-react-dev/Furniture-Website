@@ -16,7 +16,7 @@ const Works = () => {
                         <div className="works-boxs">
                             <div className="works-parts">
                                 <div className="works-img">
-                                    <img src="../public/Images/work-1.png" alt="work" />
+                                    <img src="/Images/work-1.png" alt="work" />
                                 </div>
                                 <div className="works-texts">
                                     <h4>Purchase Securely</h4>
@@ -25,7 +25,7 @@ const Works = () => {
                             </div>
                             <div className="works-parts">
                                 <div className="works-img">
-                                    <img src="../public/Images/work-2.png" alt="work" />
+                                    <img src="/Images/work-2.png" alt="work" />
                                 </div>
                                 <div className="works-texts">
                                     <h4>Ships From Warehouse</h4>
@@ -34,7 +34,7 @@ const Works = () => {
                             </div>
                             <div className="works-parts">
                                 <div className="works-img">
-                                    <img src="../public/Images/work-3.png" alt="work" />
+                                    <img src="/Images/work-3.png" alt="work" />
                                 </div>
                                 <div className="works-texts">
                                     <h4>Style Your Room</h4>

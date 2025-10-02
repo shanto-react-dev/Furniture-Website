@@ -15,13 +15,13 @@ const Collections = () => {
                 </div>
                 <div className="collections-imges">
                   <div className="images">
-                    <img src="../public/Images/collections-1.png" alt="collection" />
+                    <img src="/Images/collections-1.png" alt="collection" />
                   </div>
                   <div className="images">
-                    <img src="../public/Images/collections-2.png" alt="collection" />
+                    <img src="/Images/collections-2.png" alt="collection" />
                   </div>
                   <div className="images">
-                    <img src="../public/Images/collections-3.png" alt="collection" />
+                    <img src="/Images/collections-3.png" alt="collection" />
                   </div>
                 </div>
               </div>

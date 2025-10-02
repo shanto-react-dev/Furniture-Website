@@ -19,7 +19,7 @@ const Beautify = () => {
                             </div>
                         </div>
                         <div className="beautify-img">
-                            <img src="../public/Images/beautify.png" alt="beautify" />
+                            <img src="/Images/beautify.png" alt="beautify" />
                         </div>
                     </div>
                 </div>

@@ -11,7 +11,7 @@ const Section = () => {
                     <div className="section-area">
                       <div className="section-boxs">
                         <div className="section-img">
-                          <img src="../public/Images/group-1.svg" alt="group" />
+                          <img src="/Images/group-1.svg" alt="group" />
                         </div>
                         <div className="section-texts">
                           <h3>Free Delivery</h3>
@@ -20,7 +20,7 @@ const Section = () => {
                       </div>
                       <div className="section-boxs">
                         <div className="section-img">
-                          <img src="../public/Images/group-2.svg" alt="group" />
+                          <img src="/Images/group-2.svg" alt="group" />
                         </div>
                         <div className="section-texts">
                           <h3>Support 24/7</h3>
@@ -29,7 +29,7 @@ const Section = () => {
                       </div>
                       <div className="section-boxs">
                         <div className="section-img">
-                          <img src="../public/Images/group-3.svg" alt="group" />
+                          <img src="/Images/group-3.svg" alt="group" />
                         </div>
                         <div className="section-texts">
                           <h3>100% Authentic</h3>
