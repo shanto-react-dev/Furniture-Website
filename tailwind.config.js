@@ -24,7 +24,7 @@ export default {
     },
     // ------ Background Images
     backgroundImage: {
-      'banner' : "url('../public/Images/banner.jpg')"
+      'banner' : "url('/Images/banner.jpg')"
     }
   },
   plugins: [],
