@@ -1,0 +1,34 @@
+/*------ Mailing CSS Start ------*/
+
+.mailing {
+    @apply bg-bg
+}
+.mailing-area {
+    @apply py-[60px]
+}
+.mailing-header {
+    @apply flex flex-col items-center mb-[50px]
+}
+.mailing-header h2 {
+    @apply font-montserrat font-bold text-[32px] leading-normal text-secondary mb-[10px]
+}
+.mailing-header p {
+    @apply font-montserrat font-normal text-[20px] leading-[39px] text-thirdly w-[514px] text-center
+}
+.mailing-input {
+    @apply flex justify-center items-center
+}
+.mailing-input input {
+    @apply py-[25px] pl-[25px] pr-[133px] bg-white font-montserrat font-normal text-[16px] leading-normal text-[#011C42] border-[#054C73] border-[2px] rounded-l-[3px] 
+}
+.mailing-input input:focus {
+    @apply outline-none
+}
+.mailing-input .button a {
+    @apply pt-[27px] pb-[26px] pl-[44px] pr-[45px] bg-[#054C73] rounded-r-[3px] font-montserrat font-bold text-[16px] leading-normal text-white border-[#054C73] border-[3px] transition-all duration-300
+}
+.mailing-input .button a:hover {
+    @apply bg-[#033149] border-[#033149]
+}
+
+/*------ Mailing CSS End ------*/

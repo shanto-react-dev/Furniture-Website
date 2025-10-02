@@ -1,0 +1,19 @@
+/*------ Section CSS Start ------*/
+
+.section {
+    @apply bg-bg
+}
+.section-area {
+    @apply flex justify-between pt-[46px] pb-[49px]
+}
+.section-boxs {
+    @apply flex gap-[27px] items-center
+}
+.section-texts h3 {
+    @apply font-montserrat font-semibold text-[24px] leading-normal text-secondary
+}
+.section-texts p {
+    @apply font-montserrat font-normal text-[16px] leading-normal text-secondary
+}
+
+/*------ Section CSS End ------*/

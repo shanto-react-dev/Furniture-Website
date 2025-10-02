@@ -1,0 +1,19 @@
+/*------ Header CSS Start ------*/
+
+.header-area {
+    @apply flex items-center justify-between pt-[43px] pb-[38px]
+}
+.header-menu ul {
+    @apply flex gap-[70px]
+}
+.header-menu ul li a {
+    @apply font-semibold text-[14px] text-secondary leading-normal font-montserrat relative
+}
+.header-menu ul li a::after {
+    @apply absolute w-full h-[2px] bg-thirdly content-[''] left-0 bottom-0 transition-all scale-x-0
+}
+.header-menu ul li a::after:hover {
+    @apply scale-x-100
+}
+
+/*------ Header CSS End ------*/

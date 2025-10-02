@@ -1,0 +1,28 @@
+/*------ Banner CSS Start ------*/
+
+.banner {
+    @apply bg-banner bg-cover bg-no-repeat bg-center
+}
+.banner-area {
+    @apply flex justify-end pt-[155px] pb-[151px]
+}
+.banner-box {
+    @apply bg-[#DFE9F4] pt-[37px] pb-[66px] pl-[39px] pr-[45px] rounded-[10px] 
+}
+.banner-box h4 {
+    @apply font-montserrat text-[16px] font-semibold leading-normal text-secondary tracking-[3px] mb-[20px]
+}
+.banner-box h1 {
+    @apply font-montserrat font-bold text-[52px] leading-[65px] w-[489px] text-primary mb-[20px]
+}
+.banner-box p {
+    @apply font-montserrat font-medium text-[18px] leading-[39px] w-[546px] mb-[55px] text-secondary 
+}
+.banner-box .button a {
+    @apply font-montserrat font-bold text-[16px] leading-normal text-white uppercase px-[72px] py-[25px] bg-primary rounded-[50px] transition-all duration-300
+}
+.banner-box .button a:hover {
+    @apply bg-[#033149]
+}
+
+/*------ Banner CSS End ------*/

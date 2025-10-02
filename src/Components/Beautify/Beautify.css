@@ -1,0 +1,22 @@
+/*------ Beautify CSS Start ------*/
+
+.beautify {
+    @apply bg-bg
+}
+.beautify-area {
+    @apply flex items-center justify-between py-[60px]
+}
+.beautify-texts h3 {
+    @apply font-montserrat font-bold text-[32px] leading-normal mb-[20px] text-secondary
+}
+.beautify-texts p {
+    @apply font-montserrat font-normal text-[20px] leading-[39px] text-secondary mb-[54px] w-[500px]
+}
+.beautify-texts .button a {
+    @apply font-montserrat font-bold text-[16px] leading-normal text-white uppercase px-[57px] py-[24px] bg-primary rounded-[50px] transition-all duration-300
+}
+.beautify-texts .button a:hover {
+    @apply bg-[#033149]
+}
+
+/*------ Beautify CSS End ------*/

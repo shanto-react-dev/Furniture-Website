@@ -1,0 +1,25 @@
+/*------ Collections CSS Start ------*/
+
+.collections-area {
+    @apply py-[60px]
+}
+.collections-texts {
+    @apply flex items-center justify-center flex-col
+}
+.collections-texts h2 {
+    @apply font-montserrat font-bold text-[32px] leading-normal text-secondary mb-[20px]
+}
+.collections-texts p {
+    @apply font-montserrat font-normal text-[20px] leading-normal text-thirdly mb-[88px]
+}
+.collections-imges {
+    @apply flex justify-between
+}
+.collections-imges .images img {
+    @apply transition-all duration-300
+}
+.collections-imges .images img:hover {
+    @apply mt-[-50px]
+}
+
+/*------ Collections CSS End ------*/

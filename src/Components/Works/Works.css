@@ -1,0 +1,38 @@
+/*------ Works CSS Start ------*/
+
+.works-area {
+    @apply pt-[60px] pb-[197px]
+}
+.works-header {
+    @apply flex items-center justify-center flex-col
+}
+.works-header h2 {
+    @apply font-montserrat font-bold text-[32px] leading-normal text-secondary mb-[20px]
+}
+.works-header p {
+    @apply font-montserrat font-normal text-[20px] leading-normal text-thirdly 
+    mb-[50px]
+}
+.works-boxs {
+    @apply flex justify-between
+}
+.works-parts {
+    @apply scale-100 transition-all duration-300
+}
+.works-parts:hover {
+    @apply scale-110
+}
+.works-boxs .works-parts {
+    @apply flex flex-col items-center
+}
+.works-boxs .works-parts .works-texts {
+    @apply text-center
+}
+.works-boxs .works-parts .works-texts h4 {
+    @apply font-montserrat font-bold text-[24px] leading-normal text-secondary mb-[10px] mt-[30px]
+}
+.works-boxs .works-parts .works-texts p {
+    @apply font-montserrat font-normal text-[18px] leading-[28px] text-thirdly w-[381px]
+}
+
+/*------ Works CSS End ------*/

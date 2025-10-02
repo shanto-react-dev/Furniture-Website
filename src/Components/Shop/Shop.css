@@ -1,0 +1,30 @@
+/*------ Shop CSS Start ------*/
+.shop {
+    @apply bg-[#03344F]
+}
+.shop-area {
+    @apply flex items-center justify-between pt-[60px] pb-[89px]
+}
+.shop-area .care-part .care-texts h4 {
+    @apply font-montserrat font-bold text-[24px] leading-normal text-white mb-[34px]
+}
+.shop-area .care-part .care-texts p {
+    @apply font-montserrat font-normal text-[16px] leading-[35px] text-white w-[400px] mb-[21px]
+}
+.shop-area .care-part .care-texts h3 {
+    @apply font-montserrat font-bold text-[24px] leading-normal text-white
+}
+.shop-text h2 {
+    @apply font-montserrat font-bold text-[24px] leading-normal text-white mb-[23px]
+}
+.shop-imges {
+    @apply flex gap-[21px]
+}
+.shop-imges .images img {
+    @apply transition-all duration-200 cursor-pointer
+}
+.shop-imges .images img:hover {
+    @apply mt-[-15px]
+}
+
+/*------ Shop CSS End ------*/
